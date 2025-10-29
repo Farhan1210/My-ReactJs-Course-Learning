@@ -1,0 +1,18 @@
+.btn {
+  background-color: #ddd;
+  padding: 12px 24px;
+  border: none;
+  font-size: large;
+  margin: 20px 350px;
+}
+
+.area {
+  width: 15rem;
+  height: 10rem;
+  line-height: 10rem;
+  text-align: center;
+  margin: 10px 280px;
+  background-color: #111;
+  color: #fff;
+
+}
